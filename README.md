@@ -33,8 +33,10 @@ Data sources:
 
 This project does not attempt to rank teams by overall quality. Instead, it evaluates the quality of a team’s opponents using current-season performance metrics that evolve weekly. Teams are ranked by strength on a week-to-week basis, and those rankings are then used to assess the difficulty of the schedules they face.
 
-## Project Status
+## Roadmap
 
-In progress:
+* Finalizing the SOS methodology and ranking metric
 
-Data fetching
+* Start pulling data using nflreadpy
+
+* Start computing and ranking data 
